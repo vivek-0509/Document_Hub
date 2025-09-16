@@ -7,5 +7,5 @@ services:
       POSTGRES_USER: user
       POSTGRES_PASSWORD: pass
     ports:
-      - "3338:5432"
+      - "5432:5432"
 
