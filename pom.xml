@@ -38,11 +38,11 @@
             <artifactId>spring-boot-starter-data-jdbc</artifactId>
         </dependency>
 
-        <dependency>
-            <groupId>com.google.cloud</groupId>
-            <artifactId>google-cloud-vertexai</artifactId>
-            <version>0.3.0</version> <!-- check latest -->
-        </dependency>
+<!--        <dependency>-->
+<!--            <groupId>com.google.cloud</groupId>-->
+<!--            <artifactId>google-cloud-vertexai</artifactId>-->
+<!--            <version>0.3.0</version> &lt;!&ndash; check latest &ndash;&gt;-->
+<!--        </dependency>-->
 
 
         <dependency>
